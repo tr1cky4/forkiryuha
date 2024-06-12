@@ -1,0 +1,25 @@
+html{
+  font-size: 16px;
+}
+
+p{
+  font-size: 1.5em;
+}
+
+.main-title {
+  background-color: black;
+  color: blue;
+  font-size: 46px;
+}
+
+.parent{
+  background-color: red;
+}
+
+.child{
+  background-color: aqua;
+}
+.parent,.child{
+  width: 50%;
+
+}
